@@ -2,6 +2,8 @@
 
 **Edward Wolcher for DXArts 490b "On the Bias" Assignment #2 Data Transformations**
 
+**[CLICK HERE TO SEE THE LIVE PROJECT](https://edwardwolcher.github.io/memory_integration_visualization/)**
+
 ## Overview
 
 This project is an attempt to explore the relationship between memory, dreaming and data through the medium of digital art, particularly sound collage. An elemental tension in our course's examination of data as such and the question of bias is the distinction between the continuity of experience and its quantization. Datasets in computation are, by definition, quantized: regardless of formal abstraction they are ultimately an array of bytes. Beyond computation, data are always enacted through a primal distinguishing between elements—an argument towards the intrinsic plurality of "data"—which is one sense of our primary metaphor "on the bias". The fabric of reality needs to be cut in order to be apprehended as data, an act always oriented along bias.
